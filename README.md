@@ -18,7 +18,7 @@ Remind Me helps you remember your to-do list. It has several main functions such
 - Require : GIT, NodeJS, NPM.
 - Clone the repo in your terminal by clicking the green clone or download button at the top right and copy the URL
 - In your terminal, type git clone URL
-#### git clone : https://github.com/ducduong303/Todo-Mvc-Reactjs.git 
+#### git clone : https://github.com/ducduong303/TodoMVC-Reactjs.git
 
 - Type npm install to install all dependencies
 #### npm install 
